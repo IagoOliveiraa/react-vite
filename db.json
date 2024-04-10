@@ -1,0 +1,118 @@
+{
+    "filmes": [
+        {
+            "id": 1,
+            "titulo": "Hora de aventura",
+            "img": "https://www.google.com/imgres?q=hora%20de%20aventura%204k%20url&imgurl=https%3A%2F%2Fsamuraidechinelo.files.wordpress.com%2F2013%2F08%2Ftv-show_adventure-time-wallpaper-hora-de-aventura-finn.jpg&imgrefurl=https%3A%2F%2Fsamuraidechinelo.wordpress.com%2F2013%2F08%2F31%2Fwallpapers-do-samurai-confira-nossa-galeria-de-wallpapers%2Ftv-show_adventure-time-wallpaper-hora-de-aventura-finn%2F&docid=qhMzZBIUykdAJM&tbnid=7Af_7i3JRBV7NM&vet=12ahUKEwiItqv5mquFAxUFJLkGHYvAD0kQM3oECGQQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwiItqv5mquFAxUFJLkGHYvAD0kQM3oECGQQAA"
+
+        },
+        {
+            "id":2,
+            "titulo":"Arcane",
+            "img":"https://www.google.com/imgres?q=arcane%20full%204k&imgurl=https%3A%2F%2Fimages4.alphacoders.com%2F119%2F1194463.jpg&imgrefurl=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D1194463&docid=Z5itNu1DfL9aUM&tbnid=edx0VsHzLt7jpM&vet=12ahUKEwjl3_ipm6uFAxX9rJUCHQylAU8QM3oECBQQAA..i&w=3840&h=2160&hcb=2&ved=2ahUKEwjl3_ipm6uFAxX9rJUCHQylAU8QM3oECBQQAA"
+        },
+        {
+            "id":3,
+            "titulo" : "bastardos inglorios",
+            "img": "https://www.google.com/imgres?q=bastardos%20inglorios%20full%204k&imgurl=https%3A%2F%2Fuauposters.com.br%2Fmedia%2Fcatalog%2Fproduct%2Fcache%2F1%2Fthumbnail%2F800x930%2F9df78eab33525d08d6e5fb8d27136e95%2F1%2F5%2F157720140525-uau-posters-filmes-bastardos-inglorios--inglourious-basterds-5-2.jpg&imgrefurl=https%3A%2F%2Fuauposters.com.br%2Fposter-bastardos-inglorios-filmes-157720140525&docid=Dcj6D7oLk7jfdM&tbnid=hQfzMXeZ3aHdDM&vet=12ahUKEwiUkKHTm6uFAxXuOrkGHTLoCDUQM3oECEUQAA..i&w=800&h=930&hcb=2&ved=2ahUKEwiUkKHTm6uFAxXuOrkGHTLoCDUQM3oECEUQAA"
+        },
+        {
+            "id":4,
+            "titulo" : "oppenheimer ",
+            "img": "https://www.google.com/imgres?q=open%20heimer%20full%204k&imgurl=https%3A%2F%2Fimage-1.uhdpaper.com%2Fwallpaper%2Foppenheimer-movie-cillian-murphy-phone-wallpaper-hd-uhdpaper.com-477%401%40l.jpg&imgrefurl=https%3A%2F%2Fwww.uhdpaper.com%2F2023%2F06%2Foppenheimer-movie-4k-8k-4771l.html%3Fm%3D1&docid=cxIfE3w0-2PqVM&tbnid=boLgzZKOWahEaM&vet=12ahUKEwje-aztm6uFAxXZPrkGHZ7DAEMQM3oECGQQAA..i&w=1080&h=1920&hcb=2&ved=2ahUKEwje-aztm6uFAxXZPrkGHZ7DAEMQM3oECGQQAA"
+        },
+        {
+            "id":5 ,
+            "titulo":"1917",
+            "img":"https://www.google.com/imgres?q=1917full%204k&imgurl=https%3A%2F%2Fimages3.alphacoders.com%2F110%2F1109850.jpg&imgrefurl=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D1109850&docid=7h6W5y47cDIn8M&tbnid=D1j9iB6y0sE_oM&vet=12ahUKEwiTg_yUnKuFAxW2ppUCHRL8DQMQM3oECBwQAA..i&w=5000&h=3750&hcb=2&ved=2ahUKEwiTg_yUnKuFAxW2ppUCHRL8DQMQM3oECBwQAA"
+        },
+        {
+            "id" :6,
+            "titulo" : "Surfs Up",
+            "img" : "https://www.google.com/imgres?q=surfs%20up%20full%204k&imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp5860074.jpg&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Fsurfs-up-wallpapers&docid=V_QzWKthgbBPfM&tbnid=3_gONKAxubnJRM&vet=12ahUKEwiZh7zKnKuFAxVXKrkGHSWdAVYQM3oECGUQAA..i&w=1280&h=1024&hcb=2&ved=2ahUKEwiZh7zKnKuFAxVXKrkGHSWdAVYQM3oECGUQAA"
+        }
+        
+    ],
+
+    "Series":[
+        {
+            "id" : 7,
+            "titulo":"Game of Thrones",
+            "img" : "https://www.google.com/imgres?q=Game%20of%20Thrones%0D%0A%20up%20full%204k&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F30%2Fe9%2F0f%2F30e90fc67fadb6c05e630d5d33f66cd8.jpg&imgrefurl=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F994591898934760585%2F&docid=FU_wRk4VgmYoeM&tbnid=aetxGBES4HLokM&vet=12ahUKEwiswK_JnquFAxVrnpUCHWrdDBoQM3oECBsQAA..i&w=3840&h=2160&hcb=2&ved=2ahUKEwiswK_JnquFAxVrnpUCHWrdDBoQM3oECBsQAA"   
+        },
+
+        {
+            "id" : 8,
+            "titulo":"Breaking Bad",
+            "img" : "https://www.google.com/imgres?q=Breaking%20Bad%0D%0A%20up%20full%204k&imgurl=https%3A%2F%2Fc4.wallpaperflare.com%2Fwallpaper%2F895%2F242%2F524%2Fbreaking-bad-walter-white-bryan-cranston-yellow-background-wallpaper-preview.jpg&imgrefurl=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dbreaking%2Bbad&docid=m3LNlfalJXCEMM&tbnid=ENGjC3N58DMxkM&vet=12ahUKEwjl8dfXnquFAxV2rZUCHY8sCWAQM3oECBcQAA..i&w=728&h=410&hcb=2&ved=2ahUKEwjl8dfXnquFAxV2rZUCHY8sCWAQM3oECBcQAA"   
+        },
+
+        {
+            "id" : 9,
+            "titulo":"Stranger Things",
+            "img" : "https://www.google.com/imgres?q=Stranger%20Things%0D%0A%20up%20full%204k&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fd4%2Fb4%2F77%2Fd4b477cdb09ad46304be43ef638508f6.jpg&imgrefurl=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F830632725010462674%2F&docid=IRTCiZTJwdG3hM&tbnid=JYrPlp83teDByM&vet=12ahUKEwjku8fknquFAxW8qpUCHchfCv8QM3oECBMQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwjku8fknquFAxW8qpUCHchfCv8QM3oECBMQAA"   
+        },
+
+        {
+            "id" : 10,
+            "titulo":"The Crown",
+            "img" : "https://www.google.com/imgres?q=The%20Crown%20up%20full%204k&imgurl=https%3A%2F%2Fw.forfun.com%2Ffetch%2F7c%2F7c97e18a57438a8cf8e9c563905da66d.jpeg&imgrefurl=https%3A%2F%2Fwallpaper.mob.org%2Fgallery%2Ftag%3Dthe%2520crown%2F&docid=5K8SlMJw5dnQkM&tbnid=njujHgp2butYuM&vet=12ahUKEwjA857wnquFAxVApJUCHUN5BzUQM3oECHUQAA..i&w=2000&h=1482&hcb=2&ved=2ahUKEwjA857wnquFAxVApJUCHUN5BzUQM3oECHUQAA"   
+        },
+
+        {
+            "id" : 11,
+            "titulo":"The Mandalorian",
+            "img" : "https://www.google.com/imgres?q=The%20Mandalorian%20up%20full%204k&imgurl=https%3A%2F%2Fc4.wallpaperflare.com%2Fwallpaper%2F461%2F456%2F929%2Ftv-show-the-mandalorian-star-wars-the-mandalorian-character-hd-wallpaper-preview.jpg&imgrefurl=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dthe%2Bmandalorian&docid=QJ-OjQCVCtXFUM&tbnid=OV2WIgqGxEFguM&vet=12ahUKEwi81JH9nquFAxW8pJUCHQdWBOMQM3oECBcQAA..i&w=728&h=410&hcb=2&ved=2ahUKEwi81JH9nquFAxW8pJUCHQdWBOMQM3oECBcQAA"   
+        },
+
+        {
+            "id" : 12,
+            "titulo":"The Witcher",
+            "img" : "https://www.google.com/imgres?q=The%20Witcher%0D%0A%20up%20full%204k&imgurl=https%3A%2F%2Fc4.wallpaperflare.com%2Fwallpaper%2F620%2F343%2F647%2Fthe-witcher-the-witcher-3-wild-hunt-geralt-of-rivia-video-games-wallpaper-preview.jpg&imgrefurl=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dthe%2Bwitcher&docid=6gKdDwe9aikbmM&tbnid=1AFSWvUh3gqscM&vet=12ahUKEwjiyc2Un6uFAxXiqpUCHcCADWYQM3oECGkQAA..i&w=728&h=410&hcb=2&ved=2ahUKEwjiyc2Un6uFAxXiqpUCHcCADWYQM3oECGkQAA"   
+        }
+
+    ],
+
+    "animacao":[
+        {
+            "id":13,
+            "titulo":"BoJack Horseman",
+            "img":"https://www.google.com/imgres?q=BoJack%20Horseman%0D%0A%20up%20full%204k&imgurl=https%3A%2F%2Fimage7.uhdpaper.com%2Fwallpaper%2Fbojack-horseman-uhdpaper.com-4K-7.1224.jpg&imgrefurl=https%3A%2F%2Fwww.uhdpaper.com%2F2020%2F01%2Fbojack-horseman-4k-71224.html&docid=rQBed9XjeEhf3M&tbnid=_vSS1MRTTu7nnM&vet=12ahUKEwi_p7DxoKuFAxXoppUCHQcrDOgQM3oECBQQAA..i&w=3840&h=2160&hcb=2&ved=2ahUKEwi_p7DxoKuFAxXoppUCHQcrDOgQM3oECBQQAA"
+        },
+
+        {
+            "id":14,
+            "titulo":"Big Mouth",
+            "img":"https://www.google.com/imgres?q=Big%20Mouth%0D%0A%0D%0A%20up%20full%204k&imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp7057574.jpg&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Fbig-mouth-cartoon-wallpapers&docid=W4BnN7R4uk8zgM&tbnid=doltNcEp6fYyYM&vet=12ahUKEwiO2oWJoauFAxVVr5UCHXFIBmAQM3oECBoQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwiO2oWJoauFAxVVr5UCHXFIBmAQM3oECBoQAA"
+        },
+
+        {
+            "id":15,
+            "titulo":"Castlevania",
+            "img":"https://www.google.com/imgres?q=Castlevania%0D%0A%20up%20full%204k&imgurl=https%3A%2F%2Fc4.wallpaperflare.com%2Fwallpaper%2F788%2F838%2F393%2Fvideo-game-castlevania-grimoire-of-souls-alucard-castlevania-charlotte-aulin-maria-renard-hd-wallpaper-preview.jpg&imgrefurl=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dcastlevania&docid=zIwKxeCLlIqzSM&tbnid=u-iJ7XlM4iCoaM&vet=12ahUKEwiIwt6RoauFAxXToJUCHWq5DyUQM3oECFQQAA..i&w=728&h=410&hcb=2&ved=2ahUKEwiIwt6RoauFAxXToJUCHWq5DyUQM3oECFQQAA"
+        },
+
+        {
+            "id":16,
+            "titulo":"She-Ra and the Princesses of Power",
+            "img":"https://www.google.com/imgres?q=She-Ra%20and%20the%20Princesses%20of%20Power%0D%0A%20up%20full%204k&imgurl=https%3A%2F%2Fi.redd.it%2Fzjp0alla7ez41.jpg&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2FPrincessesOfPower%2Fcomments%2Fglnpyg%2Fdoes_anyone_have_or_can_anyone_make_an_hd4k%2F&docid=I3TYtfcraU9kpM&tbnid=nfp2s4MvKqRDwM&vet=12ahUKEwjE0dycoauFAxVSqJUCHeiAB0EQM3oECBMQAA..i&w=1200&h=676&hcb=2&ved=2ahUKEwjE0dycoauFAxVSqJUCHeiAB0EQM3oECBMQAA"
+        },
+
+        {
+            "id":17,
+            "titulo":"Kipo and the Age of Wonderbeasts",
+            "img":"https://www.google.com/imgres?q=%0D%0AKipo%20and%20the%20Age%20of%20Wonderbeasts%20up%20full%204k&imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp5504830.jpg&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Fkipo-and-the-age-of-wonderbeasts-hd-wallpapers&docid=RezKoESpBR3P-M&tbnid=VVc_i0rKmra7oM&vet=12ahUKEwiewdSqoauFAxUlrJUCHRWEDl0QM3oECGUQAA..i&w=3300&h=1857&hcb=2&ved=2ahUKEwiewdSqoauFAxUlrJUCHRWEDl0QM3oECGUQAA"
+        },
+
+        {
+            "id":18,
+            "titulo":"The Dragon Prince",
+            "img":"https://www.google.com/imgres?q=The%20Dragon%20Prince%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%0D%0A%20up%20full%204k&imgurl=https%3A%2F%2Fimages5.alphacoders.com%2F117%2F1179672.jpg&imgrefurl=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D1179672&docid=u-WUOZXQnjAlPM&tbnid=yEzY-IpOblP1qM&vet=12ahUKEwi33tS0oauFAxU0qJUCHX_yDtEQM3oECGkQAA..i&w=1920&h=1080&hcb=2&ved=2ahUKEwi33tS0oauFAxU0qJUCHX_yDtEQM3oECGkQAA"
+        }
+
+
+        
+    ]
+
+
+}
