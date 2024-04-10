@@ -1,4 +1,4 @@
-export function add(){
+export function Add(){
     return(
         <>
             </>

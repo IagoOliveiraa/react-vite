@@ -1,4 +1,4 @@
-export function anima(){
+export function Anima(){
     return(
         <>
             </>
